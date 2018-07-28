@@ -1,0 +1,18 @@
+PODS:
+  - MLLabel (1.10.5)
+  - MMWebView (1.1)
+  - UUButton (1.1)
+
+DEPENDENCIES:
+  - MLLabel
+  - MMWebView
+  - UUButton
+
+SPEC CHECKSUMS:
+  MLLabel: d76124055a2205e7f76878e62cd06ba925ba0c97
+  MMWebView: 4d7c3789bc558e615bed91e9fb3e1a2a62a514ad
+  UUButton: 9a19bbe0c812a6920de21da8acca7a2d0bad52da
+
+PODFILE CHECKSUM: 8975c0412d7352639c442984664e898328b3c07f
+
+COCOAPODS: 1.3.1
