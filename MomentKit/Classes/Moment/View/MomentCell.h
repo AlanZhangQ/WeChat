@@ -25,7 +25,7 @@
 @property (nonatomic, strong) UILabel *timeLab;
 // 位置
 @property (nonatomic, strong) UILabel *locationLab;
-// 时间
+//删除
 @property (nonatomic, strong) UIButton *deleteBtn;
 // 全文
 @property (nonatomic, strong) UIButton *showAllBtn;

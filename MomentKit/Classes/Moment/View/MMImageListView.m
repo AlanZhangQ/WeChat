@@ -8,6 +8,7 @@
 
 #import "MMImageListView.h"
 #import "MMImagePreviewView.h"
+#import "SHPhotoBrowserModel.h"
 
 #pragma mark - ------------------ 小图List显示视图 ------------------
 
@@ -105,7 +106,12 @@
         imageView = [self viewWithTag:1000+i];
         imageView.hidden = NO;
         imageView.frame = frame;
-        imageView.image = [UIImage imageNamed:[NSString stringWithFormat:@"moment_pic_%d",(int)i]];
+//        imageView.image = [UIImage imageNamed:[NSString stringWithFormat:@"moment_pic_%d",(int)i]];
+        SHPhotoBrowserModel *model = [[SHPhotoBrowserModel alloc]init];
+        model.obj = moment.imageFArr[i];
+        if(model.image) {
+        imageView.image = model.image;
+        }
     }
     self.width = kTextWidth;
     self.height = imageView.bottom;
@@ -161,6 +167,7 @@
     CGPoint offset = _previewView.scrollView.contentOffset;
     offset.x = index * kWidth;
     _previewView.scrollView.contentOffset = offset;
+    _previewView.pageControl.currentPage = offset.x/_previewView.width;
 }
 
 #pragma mark - 大图单击||长按

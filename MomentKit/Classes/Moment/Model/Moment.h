@@ -28,6 +28,8 @@
 @property (nonatomic,assign) CGFloat singleHeight;
 // 图片数量
 @property (nonatomic,assign) NSInteger fileCount;
+//图片内容CGRectArr
+@property (nonatomic, strong) NSMutableArray *imageFArr;
 // 发布时间戳
 @property (nonatomic,assign) long long time;
 // 显示'全文'/'收起'

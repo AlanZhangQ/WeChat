@@ -4,18 +4,28 @@
    version = "2.0">
    <Breakpoints>
       <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "MomentKit/Classes/Moment/View/MMImageListView.m"
-            timestampString = "554462139.057187"
+            filePath = "MomentKit/Classes/Moment/Controller/MomentViewController.m"
+            timestampString = "567925917.6669689"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "181"
-            endingLineNumber = "181"
-            landmarkName = "-longPresssBigViewCallback:"
+            startingLineNumber = "345"
+            endingLineNumber = "345"
+            landmarkName = "-didClickLink:linkText:momentCell:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -25,109 +35,14 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "MomentKit/Classes/Moment/View/MMImagePreviewView.m"
-            timestampString = "554462139.057279"
+            filePath = "MomentKit/Classes/Moment/Controller/MomentViewController.m"
+            timestampString = "567925917.668546"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "142"
-            endingLineNumber = "142"
-            landmarkName = "-doubleTapGestureCallback:"
+            startingLineNumber = "283"
+            endingLineNumber = "283"
+            landmarkName = "-didLikeMoment:"
             landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MomentKit/Classes/Moment/View/MMImagePreviewView.m"
-            timestampString = "554462139.057336"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "115"
-            endingLineNumber = "115"
-            landmarkName = "-updateOriginRect"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MomentKit/Classes/Moment/View/MMImagePreviewView.m"
-            timestampString = "554462139.057382"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "176"
-            endingLineNumber = "176"
-            landmarkName = "-scrollViewDidZoom:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MomentKit/Classes/Moment/View/MMImageListView.m"
-            timestampString = "554462139.057428"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "169"
-            endingLineNumber = "169"
-            landmarkName = "-singleTapBigViewCallback:"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[MMImageListView singleTapBigViewCallback:]"
-                  moduleName = "MomentKit"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/alan/Downloads/MomentKit-master/MomentKit/Classes/Moment/View/MMImageListView.m"
-                  timestampString = "553851419.018531"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "169"
-                  endingLineNumber = "169"
-                  offsetFromSymbolStart = "71">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__44-[MMImageListView singleTapBigViewCallback:]_block_invoke"
-                  moduleName = "MomentKit"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/alan/Downloads/MomentKit-master/MomentKit/Classes/Moment/View/MMImageListView.m"
-                  timestampString = "553851419.021716"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "169"
-                  endingLineNumber = "169"
-                  offsetFromSymbolStart = "18">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__destroy_helper_block_.138"
-                  moduleName = "MomentKit"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/alan/Downloads/MomentKit-master/MomentKit/Classes/Moment/View/MMImageListView.m"
-                  timestampString = "553851419.023892"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "169"
-                  endingLineNumber = "169"
-                  offsetFromSymbolStart = "16">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

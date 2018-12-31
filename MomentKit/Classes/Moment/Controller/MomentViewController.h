@@ -10,4 +10,7 @@
 
 @interface MomentViewController : UIViewController
 
+//用户信息
+@property (nonatomic, copy) NSString *userInfo;
+
 @end
