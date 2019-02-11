@@ -6,24 +6,24 @@
 
 每个类的.h文件中备注了该类的功能，备注都还写的蛮清晰的😝😝。
 
-![MomentKit](https://github.com/CheeryLau/MomentKit/blob/master/Screenshot/screenshot_01.png)
+![MomentKit](https://github.com/AlanZhangQ/WeChat/tree/master/Screenshot/screenshot_01.png)
 
 ### 视图结构
 
 Cell的完整UI结构
 
-![MomentKit](https://github.com/CheeryLau/MomentKit/blob/master/Screenshot/screenshot_02.png)
+![MomentKit](https://github.com/AlanZhangQ/WeChat/tree/master/Screenshot/screenshot_02.png)
 
 ### 代理
 
-![MomentKit](https://github.com/CheeryLau/MomentKit/blob/master/Screenshot/screenshot_03.png)
+![MomentKit](https://github.com/AlanZhangQ/WeChat/tree/master/Screenshot/screenshot_03.png)
 
 ### 效果图
 
-![MomentKit](https://github.com/CheeryLau/MomentKit/blob/master/Screenshot/screenshot.gif)
-![MomentKit](https://github.com/CheeryLau/MomentKit/blob/master/Screenshot/screenshot_04.png)
-![MomentKit](https://github.com/CheeryLau/MomentKit/blob/master/Screenshot/screenshot_05.png)
-![MomentKit](https://github.com/CheeryLau/MomentKit/blob/master/Screenshot/screenshot_06.png)
-![MomentKit](https://github.com/CheeryLau/MomentKit/blob/master/Screenshot/screenshot_07.png)
+![MomentKit](https://github.com/AlanZhangQ/WeChat/tree/master/Screenshot/screenshot.gif)
+![MomentKit](https://github.com/AlanZhangQ/WeChat/tree/master/Screenshot/screenshot_04.png)
+![MomentKit](https://github.com/AlanZhangQ/WeChat/tree/master/Screenshot/screenshot_05.png)
+![MomentKit](https://github.com/AlanZhangQ/WeChat/tree/master/Screenshot/screenshot_06.png)
+![MomentKit](https://github.com/AlanZhangQ/WeChat/tree/master/Screenshot/screenshot_07.png)
 
 # WeChat
