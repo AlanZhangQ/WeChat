@@ -20,7 +20,7 @@ Cell的完整UI结构
 
 ### 效果图
 
-![MomentKit](https://github.com/AlanZhangQ/WeChat/tree/master/Screenshot/screenshot.gif)
+![MomentKit](https://raw.githubusercontent.com/AlanZhangQ/WeChat/master/Screenshot/screenshot_08.gif)
 ![MomentKit](https://raw.githubusercontent.com/AlanZhangQ/WeChat/master/Screenshot/screenshot_04.png)
 ![MomentKit](https://raw.githubusercontent.com/AlanZhangQ/WeChat/master/Screenshot/screenshot_05.png)
 ![MomentKit](https://raw.githubusercontent.com/AlanZhangQ/WeChat/master/Screenshot/screenshot_06.png)
