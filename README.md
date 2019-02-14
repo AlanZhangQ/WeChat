@@ -6,7 +6,7 @@
 
 每个类的.h文件中备注了该类的功能，备注都还写的蛮清晰的😝😝。
 
-![MomentKit](https://github.com/AlanZhangQ/WeChat/tree/master/Screenshot/screenshot_01.png)
+![MomentKit](https://raw.githubusercontent.com/AlanZhangQ/WeChat/master/Screenshot/screenshot_01.png)
 
 ### 视图结构
 
