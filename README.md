@@ -24,6 +24,6 @@ Cell的完整UI结构
 ![MomentKit](https://raw.githubusercontent.com/AlanZhangQ/WeChat/master/Screenshot/screenshot_04.png)
 ![MomentKit](https://raw.githubusercontent.com/AlanZhangQ/WeChat/master/Screenshot/screenshot_05.png)
 ![MomentKit](https://raw.githubusercontent.com/AlanZhangQ/WeChat/master/Screenshot/screenshot_06.png)
-![MomentKit](https://github.com/AlanZhangQ/WeChat/blob/master/Screenshot/screenshot_07.png)
+![MomentKit](https://raw.githubusercontent.com/AlanZhangQ/WeChat/master/Screenshot/screenshot_07.png)
 
 # WeChat
